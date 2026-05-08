@@ -11,7 +11,7 @@ workers = {
 
 def calculate_pay_raise(workers):
     for worker_id, worker_data in workers.items():
-        worker_data["salary"] *= 1.3
+        worker_data["salary"] *= 1.6
     return workers
 
 
