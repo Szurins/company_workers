@@ -4,8 +4,8 @@ workers = {
     3: {"name": "Markus", "position": "Project manager", "salary": 9000},
     4: {"name": "Peter", "position": "Director", "salary": 12000},
     5: {"name": "John", "position": "HR manager", "salary": 7500},
-    6: {"name": "Ashe", "position": "Scrum master", "salary": 7000}
-    7: {"name": "Adrian", "position": "Data Scientist", "salary": 8500}
+    6: {"name": "Ashe", "position": "Scrum master", "salary": 7000},
+    7: {"name": "Adrian", "position": "Data Scientist", "salary": 8500},
 }
 
 
