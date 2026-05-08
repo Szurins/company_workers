@@ -15,7 +15,11 @@ def calculate_pay_raise(workers):
     return workers
 
 
-if __name__ == "__main__":
-    workers = calculate_pay_raise(workers)
+def print_workers(workers):
     for worker_id, worker_data in workers.items():
         print(f"Worker {worker_id}: {worker_data}")
+
+
+if __name__ == "__main__":
+    workers = calculate_pay_raise(workers)
+    print_workers(workers)
